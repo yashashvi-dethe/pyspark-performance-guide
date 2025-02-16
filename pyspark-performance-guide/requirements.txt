@@ -1,0 +1,4 @@
+pyspark
+airflow
+google-cloud-bigquery
+pandas
